@@ -1,0 +1,2 @@
+if myid>=1.5 /*gwq*/
+then x:=y;
